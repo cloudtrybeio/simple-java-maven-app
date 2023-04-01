@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 # Testing webhook trigger for automated jenkins job
-webhook trigger test 2
+webhook trigger test for pipeline job
